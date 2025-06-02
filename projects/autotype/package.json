@@ -1,0 +1,21 @@
+{
+  "name": "@yahiaaljanabi/autotype",
+  "version": "1.0.2",
+  "description": "Angular autotype directive with customizable caret",
+  "keywords": [
+    "angular",
+    "autotype",
+    "typewriter",
+    "directive"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^19.2.0",
+    "@angular/core": "^19.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
