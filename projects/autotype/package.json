@@ -1,6 +1,6 @@
 {
   "name": "@yahiaaljanabi/autotype",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Angular autotype directive with customizable caret",
   "keywords": [
     "angular",
@@ -8,7 +8,7 @@
     "typewriter",
     "directive"
   ],
-  "author": "Your Name",
+  "author": "Yahia Aljanabi",
   "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^19.2.0",
